@@ -31,8 +31,7 @@ print('D','E','F', sep='**')
 Если перевод строки делать не нужно или требуется указать специальное указание
 print('A','B','C', end='@')
 print('D','E','F', end='@@')
-Лекция 18.10.22
-https://docs.google.com/document/d/1DItYZwxzkqfvQdcU_AFubNa7_kae1rqq_61mLV3Wyes/edit?usp=sharing
+
 
 print('A','B','C', sep='*', end='finish')
 print('D','E','F', sep='**', end='^___^')
